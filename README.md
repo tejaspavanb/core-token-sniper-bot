@@ -1,5 +1,5 @@
 # Core Token Sniper Bot
-# Kindly run the bot.py and the Contract script for the Bot to be active
+Kindly run the bot.py and the Contract script for the Bot to be active
 ## Description
 The **Core Token Sniper Bot** is a Telegram bot designed to monitor and notify users about new token launches on the Core blockchain. It provides real-time alerts for new token registrations and allows users to track token details including launch time, liquidity, and holder count.
 
