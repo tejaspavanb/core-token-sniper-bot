@@ -15,7 +15,7 @@ The **Core Token Sniper Bot** is a Telegram bot designed to monitor and notify u
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/yourusername/core-token-sniper-bot.git
+git clone https://github.com/tejaspavanb/core-token-sniper-bot.git
 cd core-token-sniper-bot
 ```
 
@@ -23,11 +23,6 @@ cd core-token-sniper-bot
 ```bash
 pip install telebot web3 eth_account requests
 ```
-
-### Set up your Telegram bot:
-1. Create a new bot via [@BotFather](https://t.me/BotFather) on Telegram.
-2. Obtain your API token.
-3. Replace the placeholder in the code with your actual API token.
 
 ### Configure your blockchain connection:
 - Update the RPC provider URL in the code with your preferred Core blockchain RPC endpoint.
@@ -77,7 +72,4 @@ Contributions are welcome! To contribute:
 
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-For any issues or suggestions, feel free to open an issue on GitHub or contact the developer at [your email or Telegram handle].
 
