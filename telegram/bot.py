@@ -8,7 +8,8 @@ from datetime import datetime  # Add this import
 from eth_account import Account 
 
 # Initialize Telegram bot
-bot = telebot.TeleBot('7553999272:AAHuUPpSQ8QOj0vs6XOflpTEebFgoTrhNdg')
+bot = telebot.TeleBot('INSERT_THE_BOT_API
+')
 
 # Connect to Core blockchain
 w3 = Web3(Web3.HTTPProvider('https://rpc.test2.btcs.network'))
